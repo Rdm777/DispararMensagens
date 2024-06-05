@@ -16,4 +16,24 @@
     <li>➡️ Pyperclip</li>
 </ul>
 
+<br><br>
 <hr>
+<br><br>
+
+<h1>🟢Trigger Messages 🔴</h1>
+<hr>
+<h3>⏺️ Send notifications to multiple people</h3>
+<br>
+
+<h4>How it works?</h4>
+<p>
+ The project is 90% automated, we make the machine open Whatsapp and ask the user to connect so we can start working. Then we will open a variable to add the people or groups to which the messages will be forwarded.<br>
+    To forward the messages we will use a repetition structure, giving the following order: For each person within the variable, forward the following message...
+</p>
+
+<h4>Tools</h4>
+<ul>
+    <li>➡️ Python 🐍</li>
+    <li>➡️ Selenim</li>
+    <li>➡️ Pyperclip</li>
+</ul>
