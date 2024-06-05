@@ -17,7 +17,6 @@
 </ul>
 
 <br><br>
-<hr>
 <br><br>
 
 <h1>🟢Trigger Messages 🔴</h1>
